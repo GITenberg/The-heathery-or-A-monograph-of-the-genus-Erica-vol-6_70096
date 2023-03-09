@@ -1,0 +1,34 @@
+_repo: The-heathery-or-A-monograph-of-the-genus-Erica-vol-6_70096
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andrews, Henry Cranke, active 1799-1828
+    aliases:
+    - Andrews, Henry Charles
+    - Andrews, H. C. (Henry Charles)
+    - Andrews, Henry C.
+    gutenberg_agent_id: '53717'
+    url: http://www.gutenberg.org/2009/agents/53717
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Cranke_Andrews
+description: ''
+gutenberg_issued: '2023-02-21'
+identifiers:
+  gutenberg: '70096'
+language: en
+pgterms:marc905: 20210915144150andrews
+pgterms:marc906: '1845'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biodiversity Heritage
+  Library.)
+publication_note: '  $aUnited Kingdom :$bHenry G. Bohn, $c1845.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ericas'
+- !lcsh 'Ericas -- Pictorial works'
+- !lcc 'QK'
+- GITenberg
+title: The heathery; or, A monograph of the genus Erica. vol. 6
+url: http://www.gutenberg.org/ebooks/70096
